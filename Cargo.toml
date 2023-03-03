@@ -18,7 +18,7 @@ actix-multipart = "0.5.0"
 actix-cors = "0.6.4"
 
 tokio = { version = "1.25.0", features = ["sync"] }
-tokio-stream = "0.1.11"
+tokio-stream = "0.1.12"
 
 futures = "0.3.26"
 futures-timer = "3.0.2"
