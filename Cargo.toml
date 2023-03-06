@@ -62,7 +62,7 @@ spdx = { version = "0.10.0", features = ["text"] }
 dotenvy = "0.15.6"
 log = "0.4.17"
 env_logger = "0.10.0"
-thiserror = "1.0.38"
+thiserror = "1.0.39"
 
 sqlx = { version = "0.6.2", features = ["runtime-actix-rustls", "postgres", "chrono", "offline", "macros", "migrate", "decimal", "json"] }
 rust_decimal = { version = "1.28.1", features = ["serde-with-float", "serde-with-str"] }
