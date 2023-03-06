@@ -22,7 +22,7 @@ tokio-stream = "0.1.11"
 
 futures = "0.3.26"
 futures-timer = "3.0.2"
-async-trait = "0.1.64"
+async-trait = "0.1.66"
 dashmap = "5.4.0"
 lazy_static = "1.4.0"
 
